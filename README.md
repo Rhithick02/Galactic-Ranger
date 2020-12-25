@@ -1,6 +1,6 @@
-# Shmup
+# Galactic Ranger
 
-Shmup - Shoot Them Up is a single player graphical user interface game developed using Pygame.
+This is a single player graphical user interface game developed using Pygame.
 1. Objective of the player is to escape the meteoroids.
 2. The player starts with 3 lives and full health.
 
